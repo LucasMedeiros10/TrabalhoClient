@@ -7,6 +7,8 @@ import java.io.ObjectOutputStream;
 import java.io.OutputStream;
 import java.net.Socket;
 
+import br.univel.view.Loading;
+
 /**
  * Socket para envio de requisições e recebimento de respotas do 
  * server
@@ -23,6 +25,10 @@ public class ClientSocket {
 		OutputStream output = null;
 		InputStream input = null;
 		Object retorno = null;
+		
+		Loading loading = new Loading();
+		Thread threadCarregar = new Thread(loading);
+		threadCarregar.start();		
 		
 		try {
 			socket = new Socket("localhost", 1000);
@@ -53,6 +59,9 @@ public class ClientSocket {
 				e.printStackTrace();
 			}
 		}
+		
+		loading.setExecutando(false);	
+		
 		return retorno;		
 	}
 }
