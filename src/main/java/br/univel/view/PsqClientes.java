@@ -157,8 +157,7 @@ public class PsqClientes extends JFrame{
 	
 	public void montarConsulta(){	
 		lista.clear();	
-		
-		
+			
 		Cliente requisicao = new Cliente();
 		requisicao.setTipoOperacao(TipoOperacao.LISTARTODOS);
 		
