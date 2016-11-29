@@ -1,0 +1,212 @@
+src/main/java/br/univel/MainClient.java:5:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/main/java/br/univel/MainClient.java:5:	headerCommentRequirement Required
+src/main/java/br/univel/MainClient.java:7:	Parameter 'args' is not assigned and could be declared final
+src/main/java/br/univel/MainClient.java:7:	publicMethodCommentRequirement Required
+src/main/java/br/univel/dto/Cliente.java:6:	headerCommentRequirement Required
+src/main/java/br/univel/dto/Cliente.java:9:	Avoid variables with short names like id
+src/main/java/br/univel/dto/Cliente.java:13:	Avoid variables with short names like rg
+src/main/java/br/univel/dto/Cliente.java:16:	publicMethodCommentRequirement Required
+src/main/java/br/univel/dto/Cliente.java:20:	Parameter 'tipoOperacao' is not assigned and could be declared final
+src/main/java/br/univel/dto/Cliente.java:20:	publicMethodCommentRequirement Required
+src/main/java/br/univel/dto/Cliente.java:24:	publicMethodCommentRequirement Required
+src/main/java/br/univel/dto/Cliente.java:28:	Avoid variables with short names like id
+src/main/java/br/univel/dto/Cliente.java:28:	Parameter 'id' is not assigned and could be declared final
+src/main/java/br/univel/dto/Cliente.java:28:	publicMethodCommentRequirement Required
+src/main/java/br/univel/dto/Cliente.java:32:	publicMethodCommentRequirement Required
+src/main/java/br/univel/dto/Cliente.java:36:	Parameter 'nome' is not assigned and could be declared final
+src/main/java/br/univel/dto/Cliente.java:36:	publicMethodCommentRequirement Required
+src/main/java/br/univel/dto/Cliente.java:40:	publicMethodCommentRequirement Required
+src/main/java/br/univel/dto/Cliente.java:44:	Parameter 'dataNascimento' is not assigned and could be declared final
+src/main/java/br/univel/dto/Cliente.java:44:	publicMethodCommentRequirement Required
+src/main/java/br/univel/dto/Cliente.java:48:	publicMethodCommentRequirement Required
+src/main/java/br/univel/dto/Cliente.java:52:	Parameter 'cpf' is not assigned and could be declared final
+src/main/java/br/univel/dto/Cliente.java:52:	publicMethodCommentRequirement Required
+src/main/java/br/univel/dto/Cliente.java:56:	publicMethodCommentRequirement Required
+src/main/java/br/univel/dto/Cliente.java:60:	Avoid variables with short names like rg
+src/main/java/br/univel/dto/Cliente.java:60:	Parameter 'rg' is not assigned and could be declared final
+src/main/java/br/univel/dto/Cliente.java:60:	publicMethodCommentRequirement Required
+src/main/java/br/univel/dto/Profissional.java:7:	headerCommentRequirement Required
+src/main/java/br/univel/dto/Profissional.java:10:	Avoid variables with short names like id
+src/main/java/br/univel/dto/Profissional.java:17:	publicMethodCommentRequirement Required
+src/main/java/br/univel/dto/Profissional.java:21:	Parameter 'tipoOperacao' is not assigned and could be declared final
+src/main/java/br/univel/dto/Profissional.java:21:	publicMethodCommentRequirement Required
+src/main/java/br/univel/dto/Profissional.java:25:	publicMethodCommentRequirement Required
+src/main/java/br/univel/dto/Profissional.java:29:	Avoid variables with short names like id
+src/main/java/br/univel/dto/Profissional.java:29:	Parameter 'id' is not assigned and could be declared final
+src/main/java/br/univel/dto/Profissional.java:29:	publicMethodCommentRequirement Required
+src/main/java/br/univel/dto/Profissional.java:33:	publicMethodCommentRequirement Required
+src/main/java/br/univel/dto/Profissional.java:37:	Parameter 'nome' is not assigned and could be declared final
+src/main/java/br/univel/dto/Profissional.java:37:	publicMethodCommentRequirement Required
+src/main/java/br/univel/dto/Profissional.java:41:	publicMethodCommentRequirement Required
+src/main/java/br/univel/dto/Profissional.java:45:	Parameter 'dataNascimento' is not assigned and could be declared final
+src/main/java/br/univel/dto/Profissional.java:45:	publicMethodCommentRequirement Required
+src/main/java/br/univel/dto/Profissional.java:49:	publicMethodCommentRequirement Required
+src/main/java/br/univel/dto/Profissional.java:53:	Parameter 'login' is not assigned and could be declared final
+src/main/java/br/univel/dto/Profissional.java:53:	publicMethodCommentRequirement Required
+src/main/java/br/univel/dto/Profissional.java:57:	publicMethodCommentRequirement Required
+src/main/java/br/univel/dto/Profissional.java:61:	Parameter 'senha' is not assigned and could be declared final
+src/main/java/br/univel/dto/Profissional.java:61:	publicMethodCommentRequirement Required
+src/main/java/br/univel/function/Funcoes.java:5:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/main/java/br/univel/function/Funcoes.java:5:	headerCommentRequirement Required
+src/main/java/br/univel/function/Funcoes.java:11:	Parameter 'mensagem' is not assigned and could be declared final
+src/main/java/br/univel/function/Funcoes.java:11:	publicMethodCommentRequirement Required
+src/main/java/br/univel/function/Funcoes.java:18:	Parameter 'mensagem' is not assigned and could be declared final
+src/main/java/br/univel/function/Funcoes.java:18:	publicMethodCommentRequirement Required
+src/main/java/br/univel/function/Funcoes.java:25:	Parameter 'mensagem' is not assigned and could be declared final
+src/main/java/br/univel/function/Funcoes.java:25:	publicMethodCommentRequirement Required
+src/main/java/br/univel/function/Funcoes.java:34:	Parameter 'mensagem' is not assigned and could be declared final
+src/main/java/br/univel/function/Funcoes.java:34:	publicMethodCommentRequirement Required
+src/main/java/br/univel/models/ModeloCliente.java:9:	headerCommentRequirement Required
+src/main/java/br/univel/models/ModeloCliente.java:11:	Private field 'lista' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/br/univel/models/ModeloCliente.java:12:	Private field 'formatDate' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/br/univel/models/ModeloCliente.java:14:	Parameter 'lista' is not assigned and could be declared final
+src/main/java/br/univel/models/ModeloCliente.java:14:	publicMethodCommentRequirement Required
+src/main/java/br/univel/models/ModeloCliente.java:20:	publicMethodCommentRequirement Required
+src/main/java/br/univel/models/ModeloCliente.java:25:	publicMethodCommentRequirement Required
+src/main/java/br/univel/models/ModeloCliente.java:30:	Parameter 'column' is not assigned and could be declared final
+src/main/java/br/univel/models/ModeloCliente.java:30:	publicMethodCommentRequirement Required
+src/main/java/br/univel/models/ModeloCliente.java:33:	A method should have only one exit point, and that should be the last statement in the method
+src/main/java/br/univel/models/ModeloCliente.java:35:	A method should have only one exit point, and that should be the last statement in the method
+src/main/java/br/univel/models/ModeloCliente.java:37:	A method should have only one exit point, and that should be the last statement in the method
+src/main/java/br/univel/models/ModeloCliente.java:39:	A method should have only one exit point, and that should be the last statement in the method
+src/main/java/br/univel/models/ModeloCliente.java:47:	Parameter 'columnIndex' is not assigned and could be declared final
+src/main/java/br/univel/models/ModeloCliente.java:47:	Parameter 'rowIndex' is not assigned and could be declared final
+src/main/java/br/univel/models/ModeloCliente.java:47:	publicMethodCommentRequirement Required
+src/main/java/br/univel/models/ModeloCliente.java:52:	A method should have only one exit point, and that should be the last statement in the method
+src/main/java/br/univel/models/ModeloCliente.java:54:	Avoid if (x != y) ..; else ..;
+src/main/java/br/univel/models/ModeloCliente.java:55:	A method should have only one exit point, and that should be the last statement in the method
+src/main/java/br/univel/models/ModeloCliente.java:57:	A method should have only one exit point, and that should be the last statement in the method
+src/main/java/br/univel/models/ModeloCliente.java:60:	A method should have only one exit point, and that should be the last statement in the method
+src/main/java/br/univel/models/ModeloCliente.java:62:	A method should have only one exit point, and that should be the last statement in the method
+src/main/java/br/univel/models/ModeloCliente.java:68:	Parameter 'selecionado' is not assigned and could be declared final
+src/main/java/br/univel/models/ModeloCliente.java:68:	publicMethodCommentRequirement Required
+src/main/java/br/univel/models/ModeloProfissional.java:9:	headerCommentRequirement Required
+src/main/java/br/univel/models/ModeloProfissional.java:11:	Private field 'lista' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/br/univel/models/ModeloProfissional.java:12:	Private field 'formatDate' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/br/univel/models/ModeloProfissional.java:14:	Parameter 'lista' is not assigned and could be declared final
+src/main/java/br/univel/models/ModeloProfissional.java:14:	publicMethodCommentRequirement Required
+src/main/java/br/univel/models/ModeloProfissional.java:20:	publicMethodCommentRequirement Required
+src/main/java/br/univel/models/ModeloProfissional.java:25:	publicMethodCommentRequirement Required
+src/main/java/br/univel/models/ModeloProfissional.java:30:	Parameter 'column' is not assigned and could be declared final
+src/main/java/br/univel/models/ModeloProfissional.java:30:	publicMethodCommentRequirement Required
+src/main/java/br/univel/models/ModeloProfissional.java:33:	A method should have only one exit point, and that should be the last statement in the method
+src/main/java/br/univel/models/ModeloProfissional.java:35:	A method should have only one exit point, and that should be the last statement in the method
+src/main/java/br/univel/models/ModeloProfissional.java:37:	A method should have only one exit point, and that should be the last statement in the method
+src/main/java/br/univel/models/ModeloProfissional.java:44:	Parameter 'columnIndex' is not assigned and could be declared final
+src/main/java/br/univel/models/ModeloProfissional.java:44:	Parameter 'rowIndex' is not assigned and could be declared final
+src/main/java/br/univel/models/ModeloProfissional.java:44:	publicMethodCommentRequirement Required
+src/main/java/br/univel/models/ModeloProfissional.java:49:	A method should have only one exit point, and that should be the last statement in the method
+src/main/java/br/univel/models/ModeloProfissional.java:51:	Avoid if (x != y) ..; else ..;
+src/main/java/br/univel/models/ModeloProfissional.java:52:	A method should have only one exit point, and that should be the last statement in the method
+src/main/java/br/univel/models/ModeloProfissional.java:54:	A method should have only one exit point, and that should be the last statement in the method
+src/main/java/br/univel/models/ModeloProfissional.java:57:	A method should have only one exit point, and that should be the last statement in the method
+src/main/java/br/univel/models/ModeloProfissional.java:63:	Parameter 'selecionado' is not assigned and could be declared final
+src/main/java/br/univel/models/ModeloProfissional.java:63:	publicMethodCommentRequirement Required
+src/main/java/br/univel/socket/ClientSocket.java:10:	headerCommentRequirement Required
+src/main/java/br/univel/socket/ClientSocket.java:12:	Parameter 'objeto' is not assigned and could be declared final
+src/main/java/br/univel/socket/ClientSocket.java:12:	publicMethodCommentRequirement Required
+src/main/java/br/univel/socket/ClientSocket.java:32:	Avoid printStackTrace(); use a logger call instead.
+src/main/java/br/univel/socket/ClientSocket.java:45:	Avoid printStackTrace(); use a logger call instead.
+src/main/java/br/univel/view/CadCliente.java:24:	headerCommentRequirement Required
+src/main/java/br/univel/view/CadCliente.java:25:	Private field 'txtNome' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/br/univel/view/CadCliente.java:26:	Private field 'txtDataNasc' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/br/univel/view/CadCliente.java:27:	Private field 'txtCPF' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/br/univel/view/CadCliente.java:28:	Private field 'txtRG' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/br/univel/view/CadCliente.java:32:	publicMethodCommentRequirement Required
+src/main/java/br/univel/view/CadCliente.java:36:	Parameter 'cliente' is not assigned and could be declared final
+src/main/java/br/univel/view/CadCliente.java:36:	publicMethodCommentRequirement Required
+src/main/java/br/univel/view/CadCliente.java:44:	publicMethodCommentRequirement Required
+src/main/java/br/univel/view/CadCliente.java:48:	Parameter 'telaPesquisa' is not assigned and could be declared final
+src/main/java/br/univel/view/CadCliente.java:48:	publicMethodCommentRequirement Required
+src/main/java/br/univel/view/CadCliente.java:52:	publicMethodCommentRequirement Required
+src/main/java/br/univel/view/CadCliente.java:81:	Parameter 'arg0' is not assigned and could be declared final
+src/main/java/br/univel/view/CadCliente.java:81:	publicMethodCommentRequirement Required
+src/main/java/br/univel/view/CadProfissional.java:12:	Avoid unused imports such as 'br.univel.dto.Cliente'
+src/main/java/br/univel/view/CadProfissional.java:26:	headerCommentRequirement Required
+src/main/java/br/univel/view/CadProfissional.java:27:	Private field 'txtNome' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/br/univel/view/CadProfissional.java:28:	Private field 'txtDataNasc' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/br/univel/view/CadProfissional.java:29:	Private field 'txtLogin' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/br/univel/view/CadProfissional.java:30:	Private field 'txtSenha' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/br/univel/view/CadProfissional.java:34:	publicMethodCommentRequirement Required
+src/main/java/br/univel/view/CadProfissional.java:38:	Parameter 'profissional' is not assigned and could be declared final
+src/main/java/br/univel/view/CadProfissional.java:38:	publicMethodCommentRequirement Required
+src/main/java/br/univel/view/CadProfissional.java:45:	publicMethodCommentRequirement Required
+src/main/java/br/univel/view/CadProfissional.java:49:	Parameter 'telaPesquisa' is not assigned and could be declared final
+src/main/java/br/univel/view/CadProfissional.java:49:	publicMethodCommentRequirement Required
+src/main/java/br/univel/view/CadProfissional.java:53:	publicMethodCommentRequirement Required
+src/main/java/br/univel/view/CadProfissional.java:79:	Avoid variables with short names like e
+src/main/java/br/univel/view/CadProfissional.java:79:	Parameter 'e' is not assigned and could be declared final
+src/main/java/br/univel/view/CadProfissional.java:79:	publicMethodCommentRequirement Required
+src/main/java/br/univel/view/Login.java:20:	headerCommentRequirement Required
+src/main/java/br/univel/view/Login.java:21:	Private field 'txtUsuario' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/br/univel/view/Login.java:22:	Private field 'txtSenha' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/br/univel/view/Login.java:23:	publicMethodCommentRequirement Required
+src/main/java/br/univel/view/Login.java:36:	Parameter 'arg0' is not assigned and could be declared final
+src/main/java/br/univel/view/Login.java:36:	publicMethodCommentRequirement Required
+src/main/java/br/univel/view/Login.java:67:	Parameter 'arg0' is not assigned and could be declared final
+src/main/java/br/univel/view/Login.java:67:	publicMethodCommentRequirement Required
+src/main/java/br/univel/view/PsqClientes.java:25:	The class 'PsqClientes' has a Cyclomatic Complexity of 4 (Highest = 10).
+src/main/java/br/univel/view/PsqClientes.java:25:	The class 'PsqClientes' has a Cyclomatic Complexity of 4 (Highest = 10).
+src/main/java/br/univel/view/PsqClientes.java:25:	The class 'PsqClientes' has a Modified Cyclomatic Complexity of 4 (Highest = 10).
+src/main/java/br/univel/view/PsqClientes.java:25:	The class 'PsqClientes' has a Standard Cyclomatic Complexity of 4 (Highest = 10).
+src/main/java/br/univel/view/PsqClientes.java:25:	The class 'PsqClientes' has a Standard Cyclomatic Complexity of 4 (Highest = 10).
+src/main/java/br/univel/view/PsqClientes.java:25:	headerCommentRequirement Required
+src/main/java/br/univel/view/PsqClientes.java:27:	Private field 'tbGrid' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/br/univel/view/PsqClientes.java:31:	publicMethodCommentRequirement Required
+src/main/java/br/univel/view/PsqClientes.java:32:	Assigning an Object to null is a code smell.  Consider refactoring.
+src/main/java/br/univel/view/PsqClientes.java:38:	Parameter 'telaCadastro' is not assigned and could be declared final
+src/main/java/br/univel/view/PsqClientes.java:38:	publicMethodCommentRequirement Required
+src/main/java/br/univel/view/PsqClientes.java:42:	The constructor 'PsqClientes' has a Cyclomatic Complexity of 10.
+src/main/java/br/univel/view/PsqClientes.java:42:	The constructor 'PsqClientes' has a Cyclomatic Complexity of 10.
+src/main/java/br/univel/view/PsqClientes.java:42:	The constructor 'PsqClientes' has a Modified Cyclomatic Complexity of 10.
+src/main/java/br/univel/view/PsqClientes.java:42:	The constructor 'PsqClientes' has a Standard Cyclomatic Complexity of 10.
+src/main/java/br/univel/view/PsqClientes.java:42:	The constructor 'PsqClientes' has a Standard Cyclomatic Complexity of 10.
+src/main/java/br/univel/view/PsqClientes.java:42:	publicMethodCommentRequirement Required
+src/main/java/br/univel/view/PsqClientes.java:53:	Avoid variables with short names like e
+src/main/java/br/univel/view/PsqClientes.java:53:	Parameter 'e' is not assigned and could be declared final
+src/main/java/br/univel/view/PsqClientes.java:53:	publicMethodCommentRequirement Required
+src/main/java/br/univel/view/PsqClientes.java:61:	Avoid variables with short names like e
+src/main/java/br/univel/view/PsqClientes.java:61:	Parameter 'e' is not assigned and could be declared final
+src/main/java/br/univel/view/PsqClientes.java:61:	publicMethodCommentRequirement Required
+src/main/java/br/univel/view/PsqClientes.java:79:	Parameter 'arg0' is not assigned and could be declared final
+src/main/java/br/univel/view/PsqClientes.java:79:	publicMethodCommentRequirement Required
+src/main/java/br/univel/view/PsqClientes.java:147:	Overridable method 'montarConsulta' called during object construction
+src/main/java/br/univel/view/PsqClientes.java:151:	publicMethodCommentRequirement Required
+src/main/java/br/univel/view/PsqProfissionais.java:25:	The class 'PsqProfissionais' has a Cyclomatic Complexity of 4 (Highest = 10).
+src/main/java/br/univel/view/PsqProfissionais.java:25:	The class 'PsqProfissionais' has a Cyclomatic Complexity of 4 (Highest = 10).
+src/main/java/br/univel/view/PsqProfissionais.java:25:	The class 'PsqProfissionais' has a Modified Cyclomatic Complexity of 4 (Highest = 10).
+src/main/java/br/univel/view/PsqProfissionais.java:25:	The class 'PsqProfissionais' has a Standard Cyclomatic Complexity of 4 (Highest = 10).
+src/main/java/br/univel/view/PsqProfissionais.java:25:	The class 'PsqProfissionais' has a Standard Cyclomatic Complexity of 4 (Highest = 10).
+src/main/java/br/univel/view/PsqProfissionais.java:25:	headerCommentRequirement Required
+src/main/java/br/univel/view/PsqProfissionais.java:27:	Private field 'tbGrid' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/br/univel/view/PsqProfissionais.java:31:	publicMethodCommentRequirement Required
+src/main/java/br/univel/view/PsqProfissionais.java:32:	Assigning an Object to null is a code smell.  Consider refactoring.
+src/main/java/br/univel/view/PsqProfissionais.java:38:	Parameter 'telaCadastro' is not assigned and could be declared final
+src/main/java/br/univel/view/PsqProfissionais.java:38:	publicMethodCommentRequirement Required
+src/main/java/br/univel/view/PsqProfissionais.java:42:	The constructor 'PsqProfissionais' has a Cyclomatic Complexity of 10.
+src/main/java/br/univel/view/PsqProfissionais.java:42:	The constructor 'PsqProfissionais' has a Cyclomatic Complexity of 10.
+src/main/java/br/univel/view/PsqProfissionais.java:42:	The constructor 'PsqProfissionais' has a Modified Cyclomatic Complexity of 10.
+src/main/java/br/univel/view/PsqProfissionais.java:42:	The constructor 'PsqProfissionais' has a Standard Cyclomatic Complexity of 10.
+src/main/java/br/univel/view/PsqProfissionais.java:42:	The constructor 'PsqProfissionais' has a Standard Cyclomatic Complexity of 10.
+src/main/java/br/univel/view/PsqProfissionais.java:42:	publicMethodCommentRequirement Required
+src/main/java/br/univel/view/PsqProfissionais.java:53:	Avoid variables with short names like e
+src/main/java/br/univel/view/PsqProfissionais.java:53:	Parameter 'e' is not assigned and could be declared final
+src/main/java/br/univel/view/PsqProfissionais.java:53:	publicMethodCommentRequirement Required
+src/main/java/br/univel/view/PsqProfissionais.java:61:	Avoid variables with short names like e
+src/main/java/br/univel/view/PsqProfissionais.java:61:	Parameter 'e' is not assigned and could be declared final
+src/main/java/br/univel/view/PsqProfissionais.java:61:	publicMethodCommentRequirement Required
+src/main/java/br/univel/view/PsqProfissionais.java:79:	Avoid variables with short names like e
+src/main/java/br/univel/view/PsqProfissionais.java:79:	Parameter 'e' is not assigned and could be declared final
+src/main/java/br/univel/view/PsqProfissionais.java:79:	publicMethodCommentRequirement Required
+src/main/java/br/univel/view/PsqProfissionais.java:145:	Overridable method 'montarConsulta' called during object construction
+src/main/java/br/univel/view/PsqProfissionais.java:149:	publicMethodCommentRequirement Required
+src/main/java/br/univel/view/TelaPrincipal.java:7:	Avoid unused imports such as 'java.awt.event.MouseAdapter'
+src/main/java/br/univel/view/TelaPrincipal.java:8:	Avoid unused imports such as 'java.awt.event.MouseEvent'
+src/main/java/br/univel/view/TelaPrincipal.java:12:	headerCommentRequirement Required
+src/main/java/br/univel/view/TelaPrincipal.java:13:	publicMethodCommentRequirement Required
+src/main/java/br/univel/view/TelaPrincipal.java:22:	Avoid variables with short names like e
+src/main/java/br/univel/view/TelaPrincipal.java:22:	Parameter 'e' is not assigned and could be declared final
+src/main/java/br/univel/view/TelaPrincipal.java:22:	publicMethodCommentRequirement Required
+src/main/java/br/univel/view/TelaPrincipal.java:30:	Avoid variables with short names like e
+src/main/java/br/univel/view/TelaPrincipal.java:30:	Parameter 'e' is not assigned and could be declared final
+src/main/java/br/univel/view/TelaPrincipal.java:30:	publicMethodCommentRequirement Required
